@@ -13,4 +13,4 @@ var consumeResult = await payment.Consume(purchaseResult.data.purchaseToken);
 ```
 <br/><br/>
 
-## [<center>پیاده سازی گام به گام کتابخانه</center>](https://github.com/manjav/PoolakeyUnitySdk/wiki/%DB%B1.-%D9%86%D8%B5%D8%A8-SDK)
+## [<center>پیاده سازی گام به گام کتابخانه</center>](https://github.com/manjav/PoolakeyUnitySdk/wiki/وارد-کردن-پکیج-یونیتی)
